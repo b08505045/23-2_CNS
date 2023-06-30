@@ -1,0 +1,20 @@
+I have an accumulator on the RSA Group with:
+N = 0xb64d2f6c5de9c4fdff99d23dfb05b79eaf3d67309aef8e0c2989970f15ea66d230fb3c513db0f0050d7faa76306698e45b034ee5f0ce8059ed62635669f1b2f9789c4a7c2ba690ea041a27a3462e17222fd75d3a98be67162daf91ffdc9c52213ccc9df32d7d092ed3d8b196b22878208181e480c8d5e145b3c34a6c8bd1ce21
+g = 0xa8ccac65582e3accb0e246c4d79b9d054e85e086b6d5c48df6f79bf60ad4c77d797ba7fdba0b0a83071f16e427bff7d7d7ab768d4694f90a5eef5278201f8848221b998a7f5322a66f9eac87d5d4f801a2af3fa7a983f9678732b6b16b40c2e2b8e5612e9834f2e64b0aa91f91c479113b0d263dc81572f5b5d367d4911008cd
+Also, I have a digest:
+d = 0xb18bf6da76ab586da83cbc3b9f6e000958bb5775719707900ddc479c499d5a28b0c9c4eed90b0c458488c099edf2455d4f56dbf61570a0bf6f4e1ce9d94662259ea7b7bd09528fd84063144f492c20e0921e966cbde472ea4518548cbedceb481e083d0149c75d2d7bbebbeadc07f932057aa522cb67bac55b33a10b1c3bc188
+Prove me some incredible things!
+
+Options:
+[0] Prove membership for something not being member.
+[1] Prove non-membership for something being member.
+[2] Exit.
+Enter your choice? [0,1,2] 0
+Give me your message: 123
+Give me your membership proof for the message: 123
+Nothing special.
+
+Options:
+[0] Prove membership for something not being member.
+[1] Prove non-membership for something being member.
+[2] Exit.
